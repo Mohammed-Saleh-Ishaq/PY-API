@@ -6,6 +6,10 @@ from uuid import UUID , uuid4
 
 app = FastAPI()
 
+@app.get("/")
+def see():
+    return {"go to" : "/docs"}
+
 class Task(BaseModel):
     id : Optional[UUID] = None
     title : str
@@ -44,6 +48,13 @@ def update_task(task_id: UUID , task_update: Task):
             return update_task
     raise HTTPException(status_code = 404, detail = "Task not Found" )
 
+# Delete request/ method
+@app.delete("/tasks/{task_id}", response_model= Task)
+def delete_task(task_id: UUID):
+    for idx,task in enumerate(tasks):
+        if task.id == task_id:
+            return tasks.pop(idx)
+    raise HTTPException(status_code = 404, detail = "Task not Found" )
 
 
 if __name__ == "__main__":
