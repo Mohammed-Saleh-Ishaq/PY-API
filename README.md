@@ -1,3 +1,12 @@
 # FastAPI Task Management API
 
 This is a simple task management API built using FastAPI. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on a list of tasks.
+
+
+## Features
+
+   1. Create Task: Add a new task with a title, optional description, and completion status.
+   
+   2. Read Tasks: Retrieve a list of all tasks.
+   
+   
