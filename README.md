@@ -8,5 +8,11 @@ This is a simple task management API built using FastAPI. It allows you to perfo
    1. Create Task: Add a new task with a title, optional description, and completion status.
    
    2. Read Tasks: Retrieve a list of all tasks.
+
+   3. Read Single Task: Retrieve details of a specific task using its unique ID.
+   
+   4. Update Task: Modify the title, description, or completion status of an existing task.
+   
+   
    
    
