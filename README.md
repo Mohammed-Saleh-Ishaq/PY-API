@@ -16,3 +16,5 @@ This is a simple task management API built using FastAPI. It allows you to perfo
    
    5. Delete Task: Remove a specific task using its unique ID.
    
+
+## Technologies Used
