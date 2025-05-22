@@ -27,3 +27,5 @@ This is a simple task management API built using FastAPI. It allows you to perfo
   3. UUID: Universally unique identifiers for task identification.
   
   4. Uvicorn: A lightning-fast ASGI server for running FastAPI applications.  
+
+---
