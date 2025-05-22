@@ -21,3 +21,5 @@ This is a simple task management API built using FastAPI. It allows you to perfo
 ## Technologies Used
 
   1. FastAPI: A modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints.
+  
+  2. Pydantic: Data validation and settings management using Python type annotations. 
