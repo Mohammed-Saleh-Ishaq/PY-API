@@ -29,3 +29,10 @@ This is a simple task management API built using FastAPI. It allows you to perfo
   4. Uvicorn: A lightning-fast ASGI server for running FastAPI applications.  
 
 ---
+
+## Getting Started
+
+1.Clone the repository (if you have it in one).
+
+2.Install dependencies:
+
