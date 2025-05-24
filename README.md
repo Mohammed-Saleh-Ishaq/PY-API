@@ -40,3 +40,12 @@ This is a simple task management API built using FastAPI. It allows you to perfo
     pip install fastapi uvicorn
 
 ```
+
+3.Run the application:
+
+```Bash
+
+   python main.py
+
+```
+(Assuming your Python file is named main.py)
