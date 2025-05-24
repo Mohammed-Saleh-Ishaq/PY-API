@@ -32,16 +32,16 @@ This is a simple task management API built using FastAPI. It allows you to perfo
 
 ## Getting Started
 
-1.Clone the repository (if you have it in one).
+1. Clone the repository (if you have it in one).
 
-2.Install dependencies:
+2. Install dependencies:
 ```Bash
 
     pip install fastapi uvicorn
 
 ```
 
-3.Run the application:
+3. Run the application:
 
 ```Bash
 
