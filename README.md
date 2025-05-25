@@ -57,3 +57,6 @@ This is a simple task management API built using FastAPI. It allows you to perfo
 ## API Endpoints
 
 You can interact with the API using tools like curl or a dedicated API testing tool like Postman or Insomnia.
+
+GET /
+Redirects to the API documentation
