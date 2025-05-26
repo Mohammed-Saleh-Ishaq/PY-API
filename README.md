@@ -64,4 +64,6 @@ You can interact with the API using tools like curl or a dedicated API testing t
 2. POST /tasks/
      Creates a new task.
 
+Request Body
+
 
