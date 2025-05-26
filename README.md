@@ -60,3 +60,7 @@ You can interact with the API using tools like curl or a dedicated API testing t
 
 GET /
 Redirects to the API documentation.
+
+POST /tasks/
+
+
