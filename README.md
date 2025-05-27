@@ -66,4 +66,8 @@ You can interact with the API using tools like curl or a dedicated API testing t
 
 Request Body :
 
+JSON
+
+
+
 
