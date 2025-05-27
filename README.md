@@ -74,5 +74,5 @@ JSON
     "completed": false
 }
 
-Response Body (Success - 200 OK): The newly created task with its assigned ID
+Response Body (Success - 200 OK): The newly created task with its assigned ID.
 
