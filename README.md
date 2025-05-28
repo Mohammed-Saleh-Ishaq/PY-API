@@ -78,4 +78,4 @@ Response Body (Success - 200 OK): The newly created task with its assigned ID.
 
 GET /tasks/
 Retrieves a list of all tasks.
-Response Body (Success - 200 OK): A JSON array of task objects
+Response Body (Success - 200 OK): A JSON array of task objects.
