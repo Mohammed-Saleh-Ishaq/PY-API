@@ -85,6 +85,8 @@ Response Body (Success - 200 OK): A JSON array of task objects.
 GET /tasks/{task_id}
 Retrieves a specific task by its ID.
 Path Parameter: task_id (UUID)
+Response Body (Success - 200 OK): The requested task object
+
 
 
 
