@@ -83,6 +83,6 @@ Response Body (Success - 200 OK): A JSON array of task objects.
 
 
 GET /tasks/{task_id}
-Retrieves a specific task by its ID
+Retrieves a specific task by its ID.
 
 
