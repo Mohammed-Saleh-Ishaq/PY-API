@@ -80,3 +80,7 @@ GET /tasks/
 
 Retrieves a list of all tasks.
 Response Body (Success - 200 OK): A JSON array of task objects.
+
+
+GET /tasks/{task_id}
+
