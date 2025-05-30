@@ -90,6 +90,8 @@ Response (Error - 404 Not Found): If the task with the given ID does not exist.
 
 PUT /tasks/{task_id}
 Updates an existing task
+Path Parameter: task_id (UUID)
+
 
 
 
