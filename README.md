@@ -93,6 +93,8 @@ Updates an existing task
 Path Parameter: task_id (UUID)
 Request Body: The task data to update (only the fields you want to change are necessary).
 
+JSON
+
 
 
 
