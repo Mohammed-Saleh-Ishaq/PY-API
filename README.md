@@ -100,4 +100,4 @@ JSON
     "completed": true
 }
 
-Response Body (Success - 200 OK): 
+Response Body (Success - 200 OK): The updated task object.
