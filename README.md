@@ -97,8 +97,7 @@ JSON
 
 {
     "title": "Buy groceries for the week",
-    
-
-
+    "completed": true
+}
 
 
