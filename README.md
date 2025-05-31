@@ -95,6 +95,10 @@ Request Body: The task data to update (only the fields you want to change are ne
 
 JSON
 
+{
+    "title": "Buy groceries for the week",
+    
+
 
 
 
