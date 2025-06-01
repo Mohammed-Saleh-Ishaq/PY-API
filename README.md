@@ -106,3 +106,4 @@ Response (Error - 404 Not Found): If the task with the given ID does not exist.
 
 DELETE /tasks/{task_id}
 Deletes a specific task by its ID.
+Path Parameter: task_id (UUID)
