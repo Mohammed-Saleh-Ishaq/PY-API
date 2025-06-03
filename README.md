@@ -112,3 +112,5 @@ Response (Error - 404 Not Found): If the task with the given ID does not exist.
 
 What You Have Accomplished in the Code 
 This code demonstrates the creation of a basic RESTful API using FastAPI to manage a collection of tasks. Specifically, you have :
+
+Defined API Endpoints: You've created routes for the root path (/) which redirects to the documentation, 
