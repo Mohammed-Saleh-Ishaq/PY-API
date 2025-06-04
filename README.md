@@ -76,7 +76,7 @@ You can interact with the API using tools like curl or a dedicated API testing t
 ```
 Response Body (Success - 200 OK): The newly created task with its assigned ID.
 
-GET /tasks/
+2. GET /tasks/
 
 Retrieves a list of all tasks.
 Response Body (Success - 200 OK): A JSON array of task objects.
