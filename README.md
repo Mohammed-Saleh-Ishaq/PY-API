@@ -64,16 +64,16 @@ You can interact with the API using tools like curl or a dedicated API testing t
 1. POST /tasks/
      Creates a new task.
 
-Request Body :
+     Request Body :
 
-JSON
-
+     JSON
+```bash
 {
     "title": "Buy groceries",
     "description": "Milk, eggs, bread, and cheese",
     "completed": false
 }
-
+```
 Response Body (Success - 200 OK): The newly created task with its assigned ID.
 
 GET /tasks/
