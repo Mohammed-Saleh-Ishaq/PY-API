@@ -78,20 +78,20 @@ Response Body (Success - 200 OK): The newly created task with its assigned ID.
 
 2. GET /tasks/
 
-Retrieves a list of all tasks.
-Response Body (Success - 200 OK): A JSON array of task objects.
+   Retrieves a list of all tasks.
+   Response Body (Success - 200 OK): A JSON array of task objects.
 
 
-GET /tasks/{task_id}
-Retrieves a specific task by its ID.
-Path Parameter: task_id (UUID)
-Response Body (Success - 200 OK): The requested task object.
-Response (Error - 404 Not Found): If the task with the given ID does not exist.
+   GET /tasks/{task_id}
+   Retrieves a specific task by its ID.
+   Path Parameter: task_id (UUID)
+   Response Body (Success - 200 OK): The requested task object.
+   Response (Error - 404 Not Found): If the task with the given ID does not exist.
 
-PUT /tasks/{task_id}
-Updates an existing task
-Path Parameter: task_id (UUID)
-Request Body: The task data to update (only the fields you want to change are necessary).
+3. PUT /tasks/{task_id}
+   Updates an existing task
+   Path Parameter: task_id (UUID)
+   Request Body: The task data to update (only the fields you want to change are necessary).
 
 JSON
 
