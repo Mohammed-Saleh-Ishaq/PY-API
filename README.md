@@ -116,3 +116,5 @@ This code demonstrates the creation of a basic RESTful API using FastAPI to mana
 Defined API Endpoints: You've created routes for the root path (/) which redirects to the documentation, and for the /tasks/ path to handle creating, reading (all and single), updating, and deleting tasks.
 
 Implemented CRUD Operations: You've implemented the fundamental Create, Read, Update, & Delete operations for tasks using the corresponding HTTP methods (POST, GET, PUT, DELETE).
+
+--> Used Pydantic for Data Modeling and Validation: You've defined the Task Pydantic model to structure the task data, 
