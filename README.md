@@ -117,4 +117,5 @@ Defined API Endpoints: You've created routes for the root path (/) which redirec
 
 Implemented CRUD Operations: You've implemented the fundamental Create, Read, Update, & Delete operations for tasks using the corresponding HTTP methods (POST, GET, PUT, DELETE).
 
---> Used Pydantic for Data Modeling and Validation: You've defined the Task Pydantic model to structure the task data, 
+--> Used Pydantic for Data Modeling and Validation: You've defined the Task Pydantic model to structure the task data,
+    including its ID (optional on creation), title, optional description, and completion status. 
