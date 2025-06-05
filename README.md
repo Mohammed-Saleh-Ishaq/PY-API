@@ -123,4 +123,5 @@ Defined API Endpoints: You've created routes for the root path (/) which redirec
     including its ID (optional on creation), title, optional description, and completion status. Pydantic automatically
     handles data validation based on this model.
 
--->Utilized UUIDs for Unique Identification: Each new task is assigned a unique ID using the uuid4() function, 
+--> Utilized UUIDs for Unique Identification: Each new task is assigned a unique ID using the uuid4() function,
+    ensuring that each task can be uniquely identified.
