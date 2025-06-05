@@ -125,3 +125,5 @@ Defined API Endpoints: You've created routes for the root path (/) which redirec
 
 --> Utilized UUIDs for Unique Identification: Each new task is assigned a unique ID using the uuid4() function,
     ensuring that each task can be uniquely identified.
+
+--> 
