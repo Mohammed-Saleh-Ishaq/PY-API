@@ -111,7 +111,7 @@ Response (Error - 404 Not Found): If the task with the given ID does not exist.
    Response Body (Success - 200 OK): The deleted task object.
    Response (Error - 404 Not Found): If the task with the given ID does not exist.
 
-What You Have Accomplished in the Code 
+
 This code demonstrates the creation of a basic RESTful API using FastAPI to manage a collection of tasks. Specifically, you have :
 
 --> API Endpoints: created routes for the root path (/) which redirects to the documentation, and for the /tasks/ path to handle creating, reading (all and single), updating, and deleting tasks.
