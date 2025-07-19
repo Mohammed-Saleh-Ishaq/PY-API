@@ -50,7 +50,7 @@ This is a simple task management API built using FastAPI. It allows you to perfo
 ```
    --> (Assuming your Python file is named main.py)
 
-   --This will start the FastAPI application on http://127.0.0.1:8000.
+   -->This will start the FastAPI application on http://127.0.0.1:8000.
 
 ---
 
