@@ -74,7 +74,7 @@ You can interact with the API using tools like curl or a dedicated API testing t
     "completed": false
 }
 ```
---Response Body (Success - 200 OK): The newly created task with its assigned ID.
+-->Response Body (Success - 200 OK): The newly created task with its assigned ID.
 
 2. GET /tasks/
 
