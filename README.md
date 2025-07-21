@@ -100,7 +100,7 @@ JSON
     "completed": true
 }
 
-Response Body (Success - 200 OK): The updated task object.
+--Response Body (Success - 200 OK): The updated task object.
 Response (Error - 404 Not Found): If the task with the given ID does not exist.
 
 
