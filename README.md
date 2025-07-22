@@ -101,7 +101,7 @@ JSON
 }
 
 --> Response Body (Success - 200 OK): The updated task object.
---Response (Error - 404 Not Found): If the task with the given ID does not exist.
+-->Response (Error - 404 Not Found): If the task with the given ID does not exist.
 
 
 4. DELETE /tasks/{task_id}
