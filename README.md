@@ -79,7 +79,7 @@ You can interact with the API using tools like curl or a dedicated API testing t
 2. GET /tasks/
 
    Retrieves a list of all tasks.
-   Response Body (Success - 200 OK): A JSON array of task objects.
+   --Response Body (Success - 200 OK): A JSON array of task objects.
 
 
    GET /tasks/{task_id}
