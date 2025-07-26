@@ -86,7 +86,7 @@ You can interact with the API using tools like curl or a dedicated API testing t
    Retrieves a specific task by its ID.
    Path Parameter: task_id (UUID)
    --> Response Body (Success - 200 OK): The requested task object.
-   Response (Error - 404 Not Found): If the task with the given ID does not exist.
+   --Response (Error - 404 Not Found): If the task with the given ID does not exist.
 
 3. PUT /tasks/{task_id}
    Updates an existing task
