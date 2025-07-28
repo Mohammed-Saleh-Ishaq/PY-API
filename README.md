@@ -91,7 +91,7 @@ You can interact with the API using tools like curl or a dedicated API testing t
 3. PUT /tasks/{task_id}
    Updates an existing task
    Path Parameter: task_id (UUID)
-   -->Request Body: The task data to update (only the fields you want to change are necessary).
+   --> Request Body: The task data to update (only the fields you want to change are necessary).
 
 JSON
 
