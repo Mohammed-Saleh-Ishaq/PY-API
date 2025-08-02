@@ -109,7 +109,7 @@ JSON
    Path Parameter: task_id (UUID)
 
 --> Response Body (Success - 200 OK): The deleted task object.
-   -Response (Error - 404 Not Found): If the task with the given ID does not exist.
+   --Response (Error - 404 Not Found): If the task with the given ID does not exist.
 
 ---
 ## This code demonstrates the creation of a basic RESTful API using FastAPI to manage a collection of tasks.
