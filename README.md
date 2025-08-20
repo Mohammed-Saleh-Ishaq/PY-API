@@ -114,7 +114,8 @@ JSON
 ---
 ## This code demonstrates the creation of a basic RESTful API using FastAPI to manage a collection of tasks.
 
---> API Endpoints: created routes for the root path (/) which redirects to the documentation, and for the /tasks/ path to handle creating, reading (all and single),
+--> API Endpoints: created routes for the root path (/) which redirects to the documentation, and for the /tasks/ path to handle creating,
+reading (all and single),
     updating, and deleting tasks.
 
 --> Implemented CRUD Operations: You've implemented the fundamental Create, Read, Update, & Delete operations for tasks
